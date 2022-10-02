@@ -1,0 +1,98 @@
+h1 {
+    color: #000100;
+    font-size: 22px;
+    background-color:#000100;
+    color:#94C5CC;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+body {
+    background:#A1A6B4;
+}
+
+.navbar {
+    background-color: #000100!important;
+    color:#94C5CC !important;
+}
+
+.navbar-brand, .nav-link{
+    color: #F8F8F8!important;
+    background-color:#A1A6B4 ;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 1px solid black;
+}    
+
+.navbar-brand:hover , .nav-link:hover{
+    color:#B4D2E7!important;
+    background-color: #2c3839e9;
+}
+
+.card{
+    background: #94C5CC;
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color:#94C5CC;
+    background-color: #252f30c7;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+a:hover{
+    color: #94C5CC;
+    background-color: #252f30c7;
+}
+
+.card-title{
+    margin-bottom: 20px;
+}
+
+#keep-reading{
+    text-align: center;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.card-subtitle{
+    margin-bottom: 10px;
+}
+
+.categories{
+    font-size: 20px;
+    display: flex;
+    width: 50%;
+    margin: 5px auto;
+    justify-content: center;
+    text-align: center;
+}
+
+#home-container{
+    width: 70%;
+}
+
+#id_title, #id_subtitle, #id_body{
+    background: #F8F8F8;
+}
+
+label{
+    font-size: 18px;
+    margin: 5px;
+    width: 100px;
+    justify-content: center;
+}
+
+.new_form{
+    justify-content: center;
+    text-align: center;
+    margin: 10px auto;
+}
